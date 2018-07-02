@@ -14,7 +14,8 @@ public class NewTest {
   @Test
   public void gratifi() {
 	  
-	   nt.selectProduct(driver);
+	  // nt.selectProduct(driver);
+	  System.out.print("Inside Gratifi method");
 	   
   }
   @BeforeTest
